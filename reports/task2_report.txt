@@ -1,0 +1,40 @@
+Documents:
+5
+
+Fixed token chunks:
+5
+
+Sentence chunks:
+16
+
+RecursiveCharacterTextSplitter chunks:
+5
+
+Recursive configuration:
+chunk_size = 512
+chunk_overlap = 50
+
+Total stored chunks:
+5
+
+Stable IDs:
+SHA256 hash
+
+Original unique IDs:
+5
+
+Changed IDs after one paragraph edit:
+2
+
+Metadata fields:
+source
+page
+section
+created_date
+chunk_index
+doc_type
+id
+citation
+
+Sample citation:
+ai_guide.txt | page 1 | TXT Content | chunk 0

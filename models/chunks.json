@@ -1,0 +1,57 @@
+[
+  {
+    "id": "818299e167f054faec6934d6c865aac2a0270ae34a37bf3cf88d5f917cbf03c7",
+    "source": "ai_guide.txt",
+    "page": 1,
+    "section": "TXT Content",
+    "created_date": "2026-11-12T12:00:50.616957",
+    "chunk_index": 0,
+    "doc_type": "txt",
+    "text": "AI Guide\n\nArtificial Intelligence\n\nArtificial intelligence enables computers to perform tasks\nthat normally require human intelligence.\n\nNatural Language Processing\n\nNatural language processing allows systems to process and\nunderstand human language.\n\nRetrieval\n\nRetrieval systems find relevant information from a collection\nof documents.",
+    "citation": "ai_guide.txt | page 1 | TXT Content | chunk 0"
+  },
+  {
+    "id": "4908dc2d7c6a4b5c4c608b0ac898773a7241ec11cada0570ceca2520668b9d5b",
+    "source": "company_policy.pdf",
+    "page": 1,
+    "section": "PDF Content",
+    "created_date": "2026-11-12T12:00:50.624940",
+    "chunk_index": 0,
+    "doc_type": "pdf",
+    "text": "Company Policy\nWorking Hours\nThe standard working hours are from 10 AM to 6 PM.\nEmployees should login before the beginning of their workday.\nLeave Policy\nEmployees should submit leave requests through the HRMS portal.\nLeave requests should be submitted before taking planned leave.\nBreak Policy\nEmployees are provided tea breaks and a lunch break according\nto company policy.",
+    "citation": "company_policy.pdf | page 1 | PDF Content | chunk 0"
+  },
+  {
+    "id": "7a8f051d3513dde177227cf5d5c5c61ed9f3950b326b36beb3e665fc386b6da5",
+    "source": "employee_manual.pdf",
+    "page": 1,
+    "section": "PDF Content",
+    "created_date": "2026-11-12T12:00:50.626972",
+    "chunk_index": 0,
+    "doc_type": "pdf",
+    "text": "Employee Manual\nAttendance\nEmployees must maintain regular attendance.\nEmployees should login and logout correctly in the HRMS system.\nOvertime\nWork performed beyond normal working hours may be treated\nas overtime according to company policy.\nSalary\nSalary information is available through the employee portal.",
+    "citation": "employee_manual.pdf | page 1 | PDF Content | chunk 0"
+  },
+  {
+    "id": "1c94abf3bc4e61d0f0c5ededfabd56f36ebab9de7ebeae28738a3048089e1e6f",
+    "source": "project_notes.txt",
+    "page": 1,
+    "section": "TXT Content",
+    "created_date": "2026-11-12T12:00:50.626972",
+    "chunk_index": 0,
+    "doc_type": "txt",
+    "text": "Project Notes\n\nSemantic Search\n\nSemantic search finds documents based on meaning rather\nthan only exact keyword matching.\n\nVector Database\n\nA vector database stores embeddings and allows similarity\nsearch over large collections of vectors.",
+    "citation": "project_notes.txt | page 1 | TXT Content | chunk 0"
+  },
+  {
+    "id": "60ebd14b220874e86e73b29d84472f40c929af2874ccd0b517a701287ae68fce",
+    "source": "training_manual.docx",
+    "page": 1,
+    "section": "DOCX Content",
+    "created_date": "2026-11-12T12:00:50.641941",
+    "chunk_index": 0,
+    "doc_type": "docx",
+    "text": "Training Manual\nMachine Learning\nMachine learning allows computers to learn patterns from data and make predictions.\nEmbeddings\nEmbeddings convert text into numerical vectors that can be compared using similarity measures.",
+    "citation": "training_manual.docx | page 1 | DOCX Content | chunk 0"
+  }
+]

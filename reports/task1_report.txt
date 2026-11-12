@@ -1,0 +1,27 @@
+WEEK 6 TASK 1 - EMBEDDINGS AND COSINE SIMILARITY
+=======================================================
+
+Local model:
+all-MiniLM-L6-v2
+Local dimensions: 384
+Local execution time: 3.3265 seconds
+
+OpenRouter API:
+Not executed
+Reason: Error code: 400 - Model openai/test-embedding-3-small does not exist
+
+Cosine similarity tests:
+[1,2,3] vs [2,4,6] -> 1.0
+[1,0] vs [0,1] -> 0.0
+[1,0] vs [-1,0] -> -1.0
+
+Top 3 similarity pairs:
+0.5759 | Machine learning helps computers learn from data. | Deep learning uses neural networks.
+0.5726 | Machine learning helps computers learn from data. | Artificial intelligence can automate many tasks.
+0.5512 | Python is used for machine learning. | Machine learning helps computers learn from data.
+
+Local vs API decision:
+Local models are useful when privacy, offline execution and predictable local processing are important.
+API models are useful when easy access to hosted models and managed infrastructure are preferred.
+Local models avoid API usage costs but require local CPU/GPU resources.
+API models can provide convenient scaling but require network access and API credentials.

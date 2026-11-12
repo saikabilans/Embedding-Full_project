@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+sentence-transformers
+torch
+tiktoken
+langchain-text-splitters
+pymupdf
+faiss-cpu
+qdrant-client
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pytest
+httpx
+openai

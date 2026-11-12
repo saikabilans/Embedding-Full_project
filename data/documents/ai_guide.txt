@@ -1,0 +1,17 @@
+
+AI Guide
+
+Artificial Intelligence
+
+Artificial intelligence enables computers to perform tasks
+that normally require human intelligence.
+
+Natural Language Processing
+
+Natural language processing allows systems to process and
+understand human language.
+
+Retrieval
+
+Retrieval systems find relevant information from a collection
+of documents.

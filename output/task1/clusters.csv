@@ -1,0 +1,11 @@
+sentence,cluster,cluster_name
+Python is used for machine learning.,2,Search and AI
+Machine learning helps computers learn from data.,2,Search and AI
+Artificial intelligence can automate many tasks.,2,Search and AI
+Deep learning uses neural networks.,2,Search and AI
+Natural language processing works with human language.,2,Search and AI
+The company provides employee health insurance.,1,Company Policy
+Employees receive annual leave according to company policy.,1,Company Policy
+The office working hours are from 10 AM to 6 PM.,1,Company Policy
+Customers can search products using semantic search.,0,Technology
+Vector databases store embeddings for similarity search.,0,Technology

@@ -1,0 +1,12 @@
+
+Project Notes
+
+Semantic Search
+
+Semantic search finds documents based on meaning rather
+than only exact keyword matching.
+
+Vector Database
+
+A vector database stores embeddings and allows similarity
+search over large collections of vectors.

@@ -1,0 +1,50 @@
+FAISS
+
+Vectors:
+50000
+
+Dimension:
+384
+
+Exact search:
+33.68 ms
+
+HNSW search:
+6.42 ms
+
+Recall@10:
+0.60
+
+QDRANT
+
+Status:
+SUCCESS
+
+Run 1 vector count:
+5
+
+Run 2 vector count:
+5
+
+Filtered search results:
+2
+
+Count after deletion:
+4
+
+Re-upsert does not create duplicate points because
+the same point IDs are used.
+
+ANN:
+Approximate Nearest Neighbor search reduces search
+time by avoiding an exhaustive comparison with every
+vector.
+
+HNSW:
+Hierarchical Navigable Small World is a graph-based
+indexing method used for fast approximate similarity
+search.
+
+Qdrant:
+Useful when application-level vector storage,
+metadata filtering and upsert operations are required.
